@@ -73,7 +73,7 @@
 
 ```bash
 # Cloner le repository
-git clone [https://github.com/RDTvlokip/InfiniGPT](https://github.com/RDTvlokip/InfiniQA).git
+git clone https://github.com/RDTvlokip/InfiniQA.git
 cd InfiniQA
 
 # Charger le dataset
