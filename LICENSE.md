@@ -7,13 +7,9 @@
 ### **🎯 You are free to:**
 
 ✅ **Share** — copy, distribute, and communicate the material by any means and in any format
-
 ✅ **Adapt** — remix, transform, and build upon the material
-
 ✅ **Commercial Use** — use this dataset in a commercial context
-
 ✅ **Fine-tuning** — train AI models with this dataset
-
 ✅ **Redistribution** — publish modified versions
 
 ---
@@ -58,9 +54,7 @@ License: CC BY 4.0
 ### **🚫 Restrictions:**
 
 ❌ **No Warranty** — The dataset is provided "as is" without any warranty.
-
 ❌ **No Liability** — The author is not liable for any use.
-
 ❌ **Compliance with Laws** — Use must comply with local laws.
 
 ---
@@ -68,11 +62,8 @@ License: CC BY 4.0
 ### **⚡ Special Permissions:**
 
 🤖 **AI/ML Training** — Explicit permission for model training
-
 🏢 **Commercial Use** — Startups, companies, commercial research OK
-
 📚 **Educational Use** — Universities, schools, training allowed
-
 🔄 **Modifications** — Improvement, extension, translation allowed
 
 ---
