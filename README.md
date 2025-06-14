@@ -1,4 +1,4 @@
-# 🚀 InfiniGPT - Dataset Q&A Français Premium
+jk# 🚀 InfiniGPT - Dataset Q&A Français Premium
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Dataset Size](https://img.shields.io/badge/Size-40k%2B%20Q%26A-blue.svg)](https://github.com/RDTvlokip/InfiniGPT)
@@ -222,11 +222,11 @@ Si vous utilisez InfiniGPT dans vos recherches, merci de citer :
 
 ```bibtex
 @dataset{infinigpt2025,
-  title={InfiniGPT: Large-Scale French Q&A Dataset for Language Model Fine-tuning},
+  title={InfiniGPT: Large-Scale French Q&A Dataset},
   author={Théo (RDTvlokip)},
   year={2025},
-  url={https://github.com/RDTvlokip/InfiniGPT},
-  note={40k+ French Q&A pairs with manual validation}
+  url={[URL du dataset]},
+  license={CC BY 4.0}
 }
 ```
 
