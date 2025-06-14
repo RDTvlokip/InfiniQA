@@ -73,8 +73,8 @@
 
 ```bash
 # Cloner le repository
-git clone https://github.com/RDTvlokip/InfiniGPT.git
-cd InfiniGPT
+git clone [https://github.com/RDTvlokip/InfiniGPT](https://github.com/RDTvlokip/InfiniQA).git
+cd InfiniQA
 
 # Charger le dataset
 import json
@@ -193,7 +193,7 @@ Validation humaine → Métadonnées → Export JSON/TSV
 
 ## 📄 Licence
 
-Ce projet est sous licence **CC BY 4.0** - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence **CC BY 4.0** - voir le fichier [LICENSE](LICENSE.md) pour plus de détails.
 
 ```
 # 📜 InfiniGPT Dataset License
