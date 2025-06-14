@@ -1,6 +1,6 @@
 # 🚀 InfiniGPT - Dataset Q&A Français Premium
 
-[![License: CC BY 4.0](https://img.shields.io/badge/Licenses-CC_BY_4.0-yellow)
+[![License: CC BY 4.0](https://img.shields.io/badge/Licenses-CC_BY_4.0-yellow)](https://github.com/RDTvlokip/InfiniGPT)
 [![Dataset Size](https://img.shields.io/badge/Size-40k%2B%20Q%26A-blue.svg)](https://github.com/RDTvlokip/InfiniGPT)
 [![Language](https://img.shields.io/badge/Language-Français-red.svg)](https://github.com/RDTvlokip/InfiniGPT)
 [![Status](https://img.shields.io/badge/Status-En%20développement-orange.svg)](https://github.com/RDTvlokip/InfiniGPT)
