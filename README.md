@@ -196,10 +196,13 @@ Validation humaine → Métadonnées → Export JSON/TSV
 Ce projet est sous licence **CC BY 4.0** - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ```
-Copyright (c) 2025 Théo (RDTvlokip)
+# 📜 InfiniGPT Dataset License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software")...
+## **Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+---
+
+### **🎯 Vous êtes libre de :**...
 ```
 
 ---
@@ -208,9 +211,8 @@ of this software and associated documentation files (the "Software")...
 
 **Théo** (alias **RDTvlokip**)
 - 🎓 Étudiant TSSR (Technicien Supérieur Systèmes et Réseaux) 
-- 🏫 Formation à Nepsod
 - 🔗 Collaboration avec LMC sur tokenizer GPT-2
-- 📧 Contact : [Créer une issue](https://github.com/RDTvlokip/InfiniGPT/issues)
+- 📧 Contact : [Créer une issue](https://github.com/RDTvlokip/InfiniQA/issues)
 
 ---
 
@@ -240,10 +242,10 @@ Si vous utilisez InfiniGPT dans vos recherches, merci de citer :
 
 ## 📊 Stats du projet
 
-![GitHub stars](https://img.shields.io/github/stars/RDTvlokip/InfiniGPT?style=social)
-![GitHub forks](https://img.shields.io/github/forks/RDTvlokip/InfiniGPT?style=social)
-![GitHub issues](https://img.shields.io/github/issues/RDTvlokip/InfiniGPT)
-![GitHub last commit](https://img.shields.io/github/last-commit/RDTvlokip/InfiniGPT)
+![GitHub stars](https://img.shields.io/github/stars/RDTvlokip/InfiniQA?style=social)
+![GitHub forks](https://img.shields.io/github/forks/RDTvlokip/InfiniQA?style=social)
+![GitHub issues](https://img.shields.io/github/issues/RDTvlokip/InfiniQA)
+![GitHub last commit](https://img.shields.io/github/last-commit/RDTvlokip/InfiniQA)
 
 ---
 
