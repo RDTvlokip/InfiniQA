@@ -67,8 +67,7 @@ Licence: CC BY 4.0
 
 ### **📞 Contact :**
 
-**Créateur :** Théo (RDTvlokip)  
-**Formation :** TSSR - Nepsod  
+**Créateur :** Théo (RDTvlokip)
 **GitHub :** [Mon GitHub](https://github.com/RDTvlokip)
 
 ---
