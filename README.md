@@ -1,4 +1,4 @@
-jk# 🚀 InfiniGPT - Dataset Q&A Français Premium
+# 🚀 InfiniGPT - Dataset Q&A Français Premium
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Dataset Size](https://img.shields.io/badge/Size-40k%2B%20Q%26A-blue.svg)](https://github.com/RDTvlokip/InfiniGPT)
@@ -78,8 +78,9 @@ cd InfiniQA
 
 # Charger le dataset
 import json
-with open('infinigpt_dataset.json', 'r', encoding='utf-8') as f:
-    dataset = json.load(f)
+
+with open('qa_dataset.jsonl', 'r', encoding='utf-8') as f:
+    dataset = [json.loads(line) for line in f]
 
 print(f"Dataset chargé : {len(dataset)} Q&A")
 ```
