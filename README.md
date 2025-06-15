@@ -1,4 +1,4 @@
-# 🚀 InfiniGPT - Dataset Q&A Français Premium
+# 🚀 InfiniQA - Dataset Q&A Français Premium
 
 [![License: CC BY 4.0](https://img.shields.io/badge/Licenses-CC_BY_4.0-yellow)]([https://github.com/RDTvlokip/InfiniGPT](https://creativecommons.org/licenses/by-sa/4.0/))
 [![Dataset Size](https://img.shields.io/badge/Size-40k%2B%20Q%26A-blue.svg)](https://github.com/RDTvlokip/InfiniQA)
@@ -11,7 +11,7 @@
 
 ## 📖 Description
 
-**InfiniGPT** est un dataset de questions-réponses en français natif, conçu pour le fine-tuning de modèles de langage. Contrairement aux datasets existants basés sur l'extraction ou la traduction, InfiniGPT propose des **Q&A directes et factuelles** validées manuellement.
+**InfiniQA** est un dataset de questions-réponses en français natif, conçu pour le fine-tuning de modèles de langage. Contrairement aux datasets existants basés sur l'extraction ou la traduction, InfiniQA propose des **Q&A directes et factuelles** validées manuellement.
 
 ### ✨ Caractéristiques principales
 
@@ -197,7 +197,7 @@ Validation humaine → Métadonnées → Export JSON/TSV
 Ce projet est sous licence **CC BY 4.0** - voir le fichier [LICENSE](LICENSE.md) pour plus de détails.
 
 ```
-# 📜 InfiniGPT Dataset License
+# 📜 InfiniQA Dataset License
 
 ## **Creative Commons Attribution 4.0 International (CC BY 4.0)**
 
@@ -219,11 +219,11 @@ Ce projet est sous licence **CC BY 4.0** - voir le fichier [LICENSE](LICENSE.md)
 
 ## 🌟 Citations
 
-Si vous utilisez InfiniGPT dans vos recherches, merci de citer :
+Si vous utilisez InfiniQA dans vos recherches, merci de citer :
 
 ```bibtex
-@dataset{infinigpt2025,
-  title={InfiniGPT: Large-Scale French Q&A Dataset},
+@dataset{infiniqa2025,
+  title={InfiniQA: Large-Scale French Q&A Dataset},
   author={Théo (RDTvlokip)},
   year={2025},
   url={[URL du dataset]},
@@ -250,6 +250,6 @@ Si vous utilisez InfiniGPT dans vos recherches, merci de citer :
 
 ---
 
-**🚀 InfiniGPT - Révolutionner l'IA française, une Q&A à la fois !**
+**🚀 InfiniQA - Révolutionner l'IA française, une Q&A à la fois !**
 
 *Créé avec ❤️ par un étudiant passionné*
