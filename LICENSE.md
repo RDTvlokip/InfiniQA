@@ -1,4 +1,4 @@
-# 📜 InfiniGPT Dataset License
+# 📜 InfiniQA Dataset License
 
 ## **Creative Commons Attribution 4.0 International (CC BY 4.0)**
 
@@ -77,9 +77,9 @@ License: CC BY 4.0
 
 ### **🎉 Thanks:**
 
-If you use InfiniGPT in your projects, a shout-out or mention on Twitter would be appreciated!
+If you use InfiniQA in your projects, a shout-out or mention on Twitter would be appreciated!
 
-**#InfiniGPT #FrenchAI #OpenData #MadeByStudent**
+**#InfiniQA #FrenchAI #OpenData #MadeByStudent**
 
 ---
 
