@@ -25,6 +25,7 @@
 [![Similarité](https://img.shields.io/badge/Similarité-0.03%25-lightblue?style=for-the-badge)](https://github.com/RDTvlokip/InfiniQA)
 
 > **Le plus grand dataset Q&A français créé par un étudiant indépendant** 🇫🇷
+
 > 🔄 **En développement** – ces valeurs évolueront (perplexité ↓, doublons ↓) au fil des prochaines versions.
 
 ---
