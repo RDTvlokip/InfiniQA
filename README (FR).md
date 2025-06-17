@@ -35,7 +35,7 @@
 
 ### ✨ Caractéristiques principales
 
-- 🎯 **40 000+ Q&A** (objectif : 400k+)
+- 🎯 **100 000+ Q&A** (objectif : 400k+)
 - 🇫🇷 **Français natif** (pas de traduction)
 - 💎 **Qualité premium** - Validation manuelle intégrale
 - 📚 **Ultra-diversifié** - Histoire, sciences, culture générale
