@@ -35,7 +35,7 @@
 
 ### ✨ Key Features
 
-- 🎯 **40,000+ Q&A** (target: 400k+)
+- 🎯 **100,000+ Q&A** (target: 400k+)
 - 🇫🇷 **Native French** (no translation)
 - 💎 **Premium quality** - Full manual validation
 - 📚 **Ultra-diverse** - History, science, general knowledge
