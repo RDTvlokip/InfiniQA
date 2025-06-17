@@ -177,6 +177,8 @@ En quelle année...	1578	Araki_Murashige.txt	Histoire
 
 ## 📊 Classement par Score Composite (/100)
 
+*Attention : Les benchmarks des autres dataset ont été pris dans les papers offciel et le benchmark d'InfiniQA à été fait en interne !*
+
 | 🏅 Rang | Dataset | Score Composite | Taille | EM Score | F1 Score | BLEU-4 | ROUGE-L | Vocab Unique | Doublons |
 |:---:|---------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🥇 **#1** | **InfiniQA v1.0** | **95.0/100** | 100k+ | **100.0%** | — | **100.0%** | **100.0%** | 52,779 | 13.15% |
