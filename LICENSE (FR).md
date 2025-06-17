@@ -20,7 +20,7 @@
 
 **Crédit requis :**
 ```
-Dataset: InfiniGPT
+Dataset: InfiniQA
 Créateur: Théo (RDTvlokip)
 Source: [Lien GitHub/HuggingFace]
 Licence: CC BY 4.0
@@ -32,8 +32,8 @@ Licence: CC BY 4.0
 
 #### **Pour usage académique/recherche :**
 ```bibtex
-@dataset{infinigpt2025,
-  title={InfiniGPT: Large-Scale French Q&A Dataset},
+@dataset{infiniqa2025,
+  title={InfiniQA: Large-Scale French Q&A Dataset},
   author={Théo (RDTvlokip)},
   year={2025},
   url={[URL du dataset]},
