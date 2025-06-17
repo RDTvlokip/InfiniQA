@@ -175,6 +175,8 @@ In what year...	1578	Araki_Murashige.txt	History
 
 # 🏆 Complete Benchmark of French Q&A Datasets
 
+*Please note: The benchmarks of the other datasets were taken from the official papers and the InfiniQA benchmark was done internally!*
+
 ## 📊 Ranking by Composite Score (/100)
 
 | 🏅 Rank | Dataset | Composite Score | Size | EM Score | F1 Score | BLEU-4 | ROUGE-L | Unique Vocab | Duplicates |
