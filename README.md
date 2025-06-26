@@ -4,6 +4,7 @@
 [![Dataset Size](https://img.shields.io/badge/Size-100k%2B%20Q%26A-blue.svg)](https://github.com/RDTvlokip/InfiniQA)
 [![Language](https://img.shields.io/badge/Language-French-red.svg)](https://github.com/RDTvlokip/InfiniQA)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)](https://github.com/RDTvlokip/InfiniQA)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15744353.svg)](https://doi.org/10.5281/zenodo.15744353)
 
 ## 🧠 InfiniQA v2.0 — Official Benchmark
 
