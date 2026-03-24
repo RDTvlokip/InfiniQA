@@ -342,5 +342,4 @@ Si vous utilisez InfiniQA dans vos recherches, merci de citer :
 
 ---
 
-*Créé par Théo (RDTvlokip) - Étudiant TSSR à Nepsod*  
-*🤖 En collaboration avec LMC sur InfiniGPT*
+*Créé par Théo (RDTvlokip)*
