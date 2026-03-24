@@ -342,5 +342,4 @@ If you use InfiniQA in your research, please cite:
 
 ---
 
-*Created by Théo (RDTvlokip) - TSSR Student at Nepsod*  
-*🤖 In collaboration with LMC on InfiniGPT*
+*Created by Théo (RDTvlokip)*
